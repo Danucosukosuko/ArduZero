@@ -5,7 +5,7 @@
 
 Un Firmware para Arduino/Genuino 101, que usa bluetooth para varias cosas
 ### Inspirado por el Flipper Zero:
-![link](https://flipperzero.one/)
+[Enlace para comprar el Flipper Zero original](https://flipperzero.one/)
 
 ## Novedades
 
