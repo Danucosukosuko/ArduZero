@@ -1,2 +1,6 @@
 # ArduZero
+
+![image](https://github.com/Danucosukosuko/ArduZero/assets/71569318/0f5dc432-fc27-4865-b9b2-e5337f111857)
+
+
 Un Firmware para Arduino/Genuino 101, que usa bluetooth para varias cosas
