@@ -9,4 +9,4 @@ Un Firmware para Arduino/Genuino 101, que usa bluetooth para varias cosas
 
 ## Novedades
 
-Trae consigo varias herramientas como por ejemplo
+Trae consigo varias herramientas como por ejemplo... Anda, mírate las actualizaciones para ver qué novedades caben en más
